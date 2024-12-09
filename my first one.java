@@ -3,10 +3,12 @@ public class Main {
         System.out.println("hello evry one welcome to my repositry");
     }
     
-    // Your custom method
     public static void Mearg() {
         System.out.println("write what ever you want");
     }
 public static void main()
 sistem.out.orintln("here i am")
+}
+public static void mekdi()
+sistem.out.orintln("my beb")
 }
