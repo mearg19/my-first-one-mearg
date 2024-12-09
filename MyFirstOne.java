@@ -7,4 +7,6 @@ public class MyFirstOne {
     public static void Mearg() {
         System.out.println("write what ever you want");
     }
+public static void main()
+sistem.out.orintln("here i am")
 }
